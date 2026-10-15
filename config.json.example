@@ -1,0 +1,11 @@
+{
+  "host": "YOUR_VPS_IP",
+  "port": 22,
+  "username": "root",
+  "password": "",
+  "remember_password": false,
+  "remote_path": "/var/www/html",
+  "mode": "build",
+  "project_dir": "",
+  "dist_dir": ""
+}
